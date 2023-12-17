@@ -1,5 +1,5 @@
 # REST API for Ecommerce Website.
-# EAT Mubarak
+# Karan Shopizer
 
 'Online Shop' an E-commerce REST API built over a span of 2 weeks. The API can perform all the CRUD operation with customer validation at every step.
 
